@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ahmedheba444-hub.github.io/sitemap.xml

@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "de82662c1c9802e183b6d99d5d54e806"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "21c030e98745cad36ef1db200998e5c0"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "d6ea6b2156462081ac5bcbf001ffa08d"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "d44f058cef5fec041d241f238f18c39d"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "9845f35a94559e0f2699e80bce4a40c4"
+    },
+    {
+        "path": "learn-the-quran-online-a-modern-path-to-timeless-guidance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-the-quran-online-a-modern-path-to-timeless-guidance/index.html",
+        "type": "file",
+        "md5": "f4363271a19e8f421efaee80fdb0bfbe"
+    },
+    {
+        "path": "learn-the-quran-online-bringing-the-words-of-allah-into-your-life",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-the-quran-online-bringing-the-words-of-allah-into-your-life/index.html",
+        "type": "file",
+        "md5": "2e356aa75937164b9ffed2e0e8ab896e"
+    },
+    {
+        "path": "learn-the-quran-online-embrace-the-divine-message-from-anywhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-the-quran-online-embrace-the-divine-message-from-anywhere/index.html",
+        "type": "file",
+        "md5": "a125d11456be42fd16d2cf5ccdd5f83a"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/khyr-lklm.jpg",
+        "type": "file",
+        "md5": "c6c93fb45ddfb79ab3b3ca8b1dc9ae22"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-2xl.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-lg.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-md.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-sm.jpg",
+        "type": "file",
+        "md5": "db9e968e9816eeb84318829d501e4703"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-xl.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-xs.jpg",
+        "type": "file",
+        "md5": "da202ab00f2b905b2bc16314915f4155"
+    },
+    {
+        "path": "quran-class-online-bringing-the-book-of-allah-into-your-daily-life",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-class-online-bringing-the-book-of-allah-into-your-daily-life/index.html",
+        "type": "file",
+        "md5": "3780ef75feb711829c41f80044a0c032"
+    },
+    {
+        "path": "quran-class-online-your-gateway-to-divine-connection",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-class-online-your-gateway-to-divine-connection/index.html",
+        "type": "file",
+        "md5": "d75755b6bb8d1b2cfe5f3231d4e62e44"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "be29aecd2055c5f03de8cec13af61b5f"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "97655ec7b7f065b782e1b0e2daa1940d"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "c5fa5b6323571f01ad8fb671377fe576"
+    }
+]
